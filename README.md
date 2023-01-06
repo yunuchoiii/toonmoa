@@ -1,16 +1,18 @@
-# toonmoa
+# Toonmoa
 
-A new Flutter project.
+<p>NomadCoder 님의 플러터 강의를 보며 만든 Flutter 앱입니다.</p>
+<p>강의에서 만든 앱에 몇가지 기능을 더하고 UI를 새롭게 수정하였습니다.</p>
+<br>
 
-## Getting Started
+## Features
+<ul>
+  <li>네이버 요일 웹툰을 리스트로 보여줍니다.</li>
+  <li>네이버 웹툰 메인으로 이동할 수 있습니다.</li>
+  <li>줄거리, 장르, 권장연령 등 웹툰에 대한 간단한 정보를 표시합니다.</li>
+  <li>최신 10개의 에피소드들을 리스트로 보여줍니다</li>
+  <li>에피소드 항목을 클릭하면 해당 에피소드를 읽을 수 있습니다</li>
+  <li>해당 웹툰의 전체 에피소드 리스트로 이동할 수 있습니다.</li>
+</ul>
 
-This project is a starting point for a Flutter application.
+## 
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
