@@ -20,3 +20,5 @@
   <img src="https://user-images.githubusercontent.com/107801496/211124179-c75fe20d-6bf0-45d6-8159-e5ffe6d4aee3.PNG" width="30%"></img>
   <img src="https://user-images.githubusercontent.com/107801496/211124182-d1f98df0-f028-4efc-a339-06cde6fcc98d.PNG" width="30%"></img>
 <div>
+
+시연영상: https://youtube.com/shorts/PSpQR9gF_tQ
