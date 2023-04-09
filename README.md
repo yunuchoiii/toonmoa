@@ -3,7 +3,6 @@
 ## About
 <p><a href="https://nomadcoders.co/flutter-for-beginners/">NomadCoder 님의 플러터 강의</a>를 보며 만든 Flutter 앱입니다.
 <br>강의에서 만든 앱에 몇가지 기능을 더하고 UI를 새롭게 수정하였습니다.</p>
-<br>
 
 ## Features
 <ul>
